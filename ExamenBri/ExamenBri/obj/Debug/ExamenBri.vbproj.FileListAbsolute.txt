@@ -1,0 +1,26 @@
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\bin\Debug\ExamenBri.exe.config
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\bin\Debug\ExamenBri.exe
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\bin\Debug\ExamenBri.pdb
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\bin\Debug\ExamenBri.xml
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbprojAssemblyReference.cache
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Form1.resources
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Resources.resources
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbproj.GenerateResource.cache
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbproj.CoreCompileInputs.cache
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.exe
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.xml
+C:\Users\AntonioFlores\source\repos\ExamenBri\ExamenBri\obj\Debug\ExamenBri.pdb
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\bin\Debug\ExamenBri.exe.config
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\bin\Debug\ExamenBri.exe
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\bin\Debug\ExamenBri.pdb
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\bin\Debug\ExamenBri.xml
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbprojAssemblyReference.cache
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Form1.resources
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Form2.resources
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Form3.resources
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.Resources.resources
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbproj.GenerateResource.cache
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.exe
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.xml
+C:\Users\Jose Mario Briceño\Desktop\ExamenBri\ExamenBri\obj\Debug\ExamenBri.pdb
